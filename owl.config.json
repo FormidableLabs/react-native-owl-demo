@@ -1,0 +1,15 @@
+{
+  "ios": {
+    "workspace": "ios/AcmeApp.xcworkspace",
+    "scheme": "AcmeApp",
+    "configuration": "Release",
+    "device": "iPhone 13 Pro",
+    "quiet": true
+  },
+  "android": {
+    "packageName": "com.acmeapp",
+    "quiet": true
+  },
+  "debug": true,
+  "report": true
+}
