@@ -8,6 +8,7 @@
   },
   "android": {
     "packageName": "com.acmeapp",
+    "buildType": "Release",
     "quiet": true
   },
   "debug": true,
