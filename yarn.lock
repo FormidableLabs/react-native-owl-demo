@@ -5788,10 +5788,10 @@ react-native-gradle-plugin@^0.0.6:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.6.tgz#b61a9234ad2f61430937911003cddd7e15c72b45"
   integrity sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg==
 
-react-native-owl@1.0.0-rc1:
-  version "1.0.0-rc1"
-  resolved "https://registry.yarnpkg.com/react-native-owl/-/react-native-owl-1.0.0-rc1.tgz#b286e104c905cc0f19ef960a314d82e034fcca11"
-  integrity sha512-G6VmkGiuPdaOJ4JSogRUJ4YBpBxiX+SL+FaYT1WVmPI3b16XgOcdGi6WnzHZUZxq+vfTu27yqp/zXyDWqlCHTQ==
+react-native-owl@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-owl/-/react-native-owl-1.0.0.tgz#baa4f74ef57a8df29e1f5ae1bdda56f7f1cdab2a"
+  integrity sha512-+JfTL85oX5kIR0tm8QkMSY0QQrCJNq19ylgWKbWMmaa2yEGqW2EW6/uXcVqjHWO2rtPxdJDKzISALRzgZluvMA==
   dependencies:
     ajv "^7.0.3"
     execa "^5.1.1"
