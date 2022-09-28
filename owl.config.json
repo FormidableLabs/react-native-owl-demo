@@ -3,7 +3,7 @@
     "workspace": "ios/AcmeApp.xcworkspace",
     "scheme": "AcmeApp",
     "configuration": "Release",
-    "device": "iPhone 13 Pro",
+    "device": "iPhone 14 Pro",
     "quiet": true
   },
   "android": {
